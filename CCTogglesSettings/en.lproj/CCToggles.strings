@@ -12,7 +12,7 @@
 "MSG_BOUNCE_ENABLED" = "Enabled";
 "MSG_BOUNCE_ENABLED_IF_OVER_TWO_PAGE" = "Enabled If over two pages";
 "MSG_BOUNCE_DISABLED" = "Disabled";
-"MSG_START_PAGE" = "Start page";
+"MSG_START_PAGE" = "Start at page";
 "MSG_STARTPAGE_DISABLED" = "Disabled";
 "LOAD_DATA" = "Loading Data";
 "PLZ_WAIT" = "Please wait...";
