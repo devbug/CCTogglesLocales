@@ -1,11 +1,19 @@
 "MSG_COPYRIGHT" = "CCToggles © 2013-2014 deVbug";
 "MSG_TOGGLES" = "토글";
 "MSG_QUICKLAUNCHES" = "빠른 실행";
+"MSG_HIDE_SUPPRESSED_ITEMS_IN_LS" = "락스크린 제한된 아이템 숨기기";
 "MSG_COUNT_PER_PAGE" = "페이지별 수";
 "MSG_TOGGLES_COUNT" = "토글";
 "MSG_QUICKLAUNCHES_COUNT" = "빠른 실행";
 "MSG_TOGGLES_LANDSCAPE_COUNT" = "토글 (가로)";
 "MSG_QUICKLAUNCHES_LANDSCAPE_COUNT" = "빠른 실행 (가로)";
+"MSG_TwoRowsQuickLaunchSection" = "두 줄 표시";
+"MSG_BOUNCE_TYPE" = "스크롤 효과";
+"MSG_BOUNCE_ENABLED" = "활성화";
+"MSG_BOUNCE_ENABLED_IF_OVER_TWO_PAGE" = "두 페이지 이상일 때만 활성화";
+"MSG_BOUNCE_DISABLED" = "비활성화";
+"MSG_START_PAGE" = "첫 페이지";
+"MSG_STARTPAGE_DISABLED" = "비활성화";
 "LOAD_DATA" = "데이터 읽는 중";
 "PLZ_WAIT" = "잠시만 기다려주세요...";
 "MSG_ENABLED_QL" = "활성화된 빠른 실행";
@@ -26,3 +34,6 @@
 "Yes!" = "네!";
 "Not Now" = "지금은 좀..";
 "DONATION_PROMPT" = "지금 사파리를 열고 페이팔에 가서 개발자에게 커피 한잔 대접이라도?";
+"MSG_ENABLED_" = "사용 중";
+"MSG_DISABLED_" = "사용 안 함";
+"MSG_PANELS" = "패널";
