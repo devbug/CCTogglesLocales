@@ -1,11 +1,19 @@
 "MSG_COPYRIGHT" = "CCToggles © 2013-2014 deVbug\nItalian: @Fafner1976";
 "MSG_TOGGLES" = "Interruttori";
 "MSG_QUICKLAUNCHES" = "Scorciatoie";
+"MSG_HIDE_SUPPRESSED_ITEMS_IN_LS" = "Nascondi soppressi nella LS";
 "MSG_COUNT_PER_PAGE" = "Numero per pagina";
 "MSG_TOGGLES_COUNT" = "Interruttori";
 "MSG_QUICKLAUNCHES_COUNT" = "Scorciatoie";
 "MSG_TOGGLES_LANDSCAPE_COUNT" = "Interruttori (orizz.)";
 "MSG_QUICKLAUNCHES_LANDSCAPE_COUNT" = "Scorciatoie (orizz.)";
+"MSG_TwoRowsQuickLaunchSection" = "Due righe";
+"MSG_BOUNCE_TYPE" = "Effetto rimbalzo";
+"MSG_BOUNCE_ENABLED" = "Abilitato";
+"MSG_BOUNCE_ENABLED_IF_OVER_TWO_PAGE" = "Abilitato se più di due pagine";
+"MSG_BOUNCE_DISABLED" = "Disabilitato";
+"MSG_START_PAGE" = "Avvia alla pagina";
+"MSG_STARTPAGE_DISABLED" = "Disabilitato";
 "LOAD_DATA" = "Caricamento";
 "PLZ_WAIT" = "Attendere...";
 "MSG_ENABLED_QL" = "Scorciatoie abilitate";
@@ -19,10 +27,14 @@
 "MSG_MAX_COUNT" = "No. max";
 "MSG_TOGGLES_PER_PAGE" = "Interruttori per pagina";
 "MSG_QUICKLAUNCHES_PER_PAGE" = "Scorciatoie per pagina";
-"MSG_PORTRAIT_COUNT" = "Verticale";
-"MSG_LANDSCAPE_COUNT" = "Orizzontale";
+"MSG_PORTRAIT_COUNT" = "Modalità verticale";
+"MSG_LANDSCAPE_COUNT" = "Modalità orizzontale";
 "MSG_LOCKSCREEN_DISABLED" = "Restrizioni Lockscreen";
 "Donate" = "Dona";
 "Yes!" = "Dona!";
 "Not Now" = "Non ora";
-"DONATION_PROMPT" = "Adoro il caffè! :)";
+"DONATION_PROMPT" = "Mi piace così tanto il caffè! :)";
+"MSG_ENABLED_" = "Abilitato";
+"MSG_DISABLED_" = "Disabilitato";
+"MSG_PANELS" = "Pannelli";
+
