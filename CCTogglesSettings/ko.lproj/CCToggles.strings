@@ -8,7 +8,7 @@
 "MSG_TOGGLES_LANDSCAPE_COUNT" = "토글 (가로)";
 "MSG_QUICKLAUNCHES_LANDSCAPE_COUNT" = "빠른 실행 (가로)";
 "MSG_TwoRowsQuickLaunchSection" = "두 줄 표시";
-"MSG_BOUNCE_TYPE" = "스크롤 효과";
+"MSG_BOUNCE_TYPE" = "스크롤 바운스 효과";
 "MSG_BOUNCE_ENABLED" = "활성화";
 "MSG_BOUNCE_ENABLED_IF_OVER_TWO_PAGE" = "두 페이지 이상일 때만 활성화";
 "MSG_BOUNCE_DISABLED" = "비활성화";
