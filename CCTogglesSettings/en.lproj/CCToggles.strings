@@ -37,3 +37,13 @@
 "MSG_ENABLED_" = "Enabled";
 "MSG_DISABLED_" = "Disabled";
 "MSG_PANELS" = "Panels";
+"Airplane" = "Airplane";
+"WiFi" = "Wi-Fi";
+"Bluetooth" = "Bluetooth";
+"Do Not Disturb" = "Do Not Disturb";
+"Orientation Lock" = "Orientation Lock";
+"Mute" = "Mute";
+"Torch" = "Torch";
+"Clock" = "Clock";
+"Calculator" = "Calculator";
+"Camera" = "Camera";

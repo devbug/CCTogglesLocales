@@ -37,3 +37,13 @@
 "MSG_ENABLED_" = "사용 중";
 "MSG_DISABLED_" = "사용 안 함";
 "MSG_PANELS" = "패널";
+"Airplane" = "에어플레인 모드";
+"WiFi" = "Wi-Fi";
+"Bluetooth" = "Bluetooth";
+"Do Not Disturb" = "방해금지 모드";
+"Orientation Lock" = "화면 회전 잠금";
+"Mute" = "음소거";
+"Torch" = "플래쉬";
+"Clock" = "시계";
+"Calculator" = "계산기";
+"Camera" = "카메라";
