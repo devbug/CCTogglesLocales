@@ -1,84 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>ACTIVATOR_REQUIRED</key>
-	<string>需要 Activator</string>
-	<key>DONATION_PROMPT</key>
-	<string>我真的很喜欢咖啡! :)</string>
-	<key>Donate</key>
-	<string>捐赠</string>
-	<key>LOAD_DATA</key>
-	<string>载入数据中</string>
-	<key>MSG_ADD_ACTIVATOR</key>
-	<string>添加 Activator 动作</string>
-	<key>MSG_ADD_APPLAUNCHER</key>
-	<string>添加快捷启动应用</string>
-	<key>MSG_BOUNCE_DISABLED</key>
-	<string>禁用</string>
-	<key>MSG_BOUNCE_ENABLED</key>
-	<string>启用</string>
-	<key>MSG_BOUNCE_ENABLED_IF_OVER_TWO_PAGE</key>
-	<string>大于两页以上启用</string>
-	<key>MSG_BOUNCE_TYPE</key>
-	<string>弹力效果</string>
-	<key>MSG_COPYRIGHT</key>
-	<string>CCToggles © 2013-2014 deVbug</string>
-	<key>MSG_COUNT_PER_PAGE</key>
-	<string>每页数量</string>
-	<key>MSG_DISABLED</key>
-	<string>已禁用开关</string>
-	<key>MSG_DISABLED_</key>
-	<string>禁用</string>
-	<key>MSG_DISABLED_QL</key>
-	<string>已禁用快捷启动</string>
-	<key>MSG_ENABLED</key>
-	<string>已启用开关</string>
-	<key>MSG_ENABLED_</key>
-	<string>启用</string>
-	<key>MSG_ENABLED_QL</key>
-	<string>已启用快捷启动</string>
-	<key>MSG_HIDE_SUPPRESSED_ITEMS_IN_LS</key>
-	<string>隐藏已设置的禁用选项</string>
-	<key>MSG_LANDSCAPE_COUNT</key>
-	<string>横屏</string>
-	<key>MSG_LOCKSCREEN_DISABLED</key>
-	<string>锁屏禁用</string>
-	<key>MSG_MAX_COUNT</key>
-	<string>每页数量</string>
-	<key>MSG_PANELS</key>
-	<string>面板</string>
-	<key>MSG_PORTRAIT_COUNT</key>
-	<string>竖屏</string>
-	<key>MSG_QUICKLAUNCHES</key>
-	<string>快捷启动</string>
-	<key>MSG_QUICKLAUNCHES_COUNT</key>
-	<string>快捷启动</string>
-	<key>MSG_QUICKLAUNCHES_LANDSCAPE_COUNT</key>
-	<string>快捷启动 (横屏)</string>
-	<key>MSG_QUICKLAUNCHES_PER_PAGE</key>
-	<string>每页快捷启动数量</string>
-	<key>MSG_STARTPAGE_DISABLED</key>
-	<string>禁用</string>
-	<key>MSG_START_PAGE</key>
-	<string>起始页</string>
-	<key>MSG_TOGGLES</key>
-	<string>开关</string>
-	<key>MSG_TOGGLES_COUNT</key>
-	<string>开关</string>
-	<key>MSG_TOGGLES_LANDSCAPE_COUNT</key>
-	<string>开关 (横屏)</string>
-	<key>MSG_TOGGLES_PER_PAGE</key>
-	<string>每页开关数量</string>
-	<key>MSG_TwoRowsQuickLaunchSection</key>
-	<string>两行</string>
-	<key>Not Now</key>
-	<string>暂时不了</string>
-	<key>OK_MSG</key>
-	<string>确定</string>
-	<key>PLZ_WAIT</key>
-	<string>请稍等...</string>
-	<key>Yes!</key>
-	<string>确定!</string>
-</dict>
-</plist>
+"MSG_COPYRIGHT" = "CCToggles © 2013-2014 deVbug \n汉化: 一丝";
+"MSG_TOGGLES" = "CCToggles";
+"MSG_QUICKLAUNCHES" = "快捷启动";
+"MSG_HIDE_SUPPRESSED_ITEMS_IN_LS" = "锁屏时禁用的项目";
+"MSG_COUNT_PER_PAGE" = "每页显示个数";
+"MSG_TOGGLES_COUNT" = "开关";
+"MSG_QUICKLAUNCHES_COUNT" = "快捷启动";
+"MSG_TOGGLES_LANDSCAPE_COUNT" = "开关 (横屏)";
+"MSG_QUICKLAUNCHES_LANDSCAPE_COUNT" = "快捷启动 (横屏)";
+"MSG_TwoRowsQuickLaunchSection" = "两行";
+"MSG_BOUNCE_TYPE" = "弹力效果";
+"MSG_BOUNCE_ENABLED" = "启用";
+"MSG_BOUNCE_ENABLED_IF_OVER_TWO_PAGE" = "超过两页时启用";
+"MSG_BOUNCE_DISABLED" = "禁用";
+"MSG_START_PAGE" = "起始页";
+"MSG_STARTPAGE_DISABLED" = "禁用";
+"LOAD_DATA" = "载入数据中";
+"PLZ_WAIT" = "请稍后……";
+"MSG_ENABLED_QL" = "已启用的快捷启动";
+"MSG_DISABLED_QL" = "已禁用的快捷启动";
+"MSG_ENABLED" = "已启用的开关";
+"MSG_DISABLED" = "已禁用的开关";
+"MSG_ADD_APPLAUNCHER" = "添加程序至快捷启动";
+"MSG_ADD_ACTIVATOR" = "添加 Activator 动作";
+"ACTIVATOR_REQUIRED" = "必须要有 Activator";
+"OK_MSG" = "确定";
+"MSG_MAX_COUNT" = "最大个数";
+"MSG_TOGGLES_PER_PAGE" = "每页开关的个数";
+"MSG_QUICKLAUNCHES_PER_PAGE" = "每页快捷启动的个数";
+"MSG_PORTRAIT_COUNT" = "竖屏";
+"MSG_LANDSCAPE_COUNT" = "横屏";
+"MSG_LOCKSCREEN_DISABLED" = "锁屏时禁用";
+"Donate" = "捐赠";
+"Yes!" = "确定!";
+"Not Now" = "以后再说";
+"DONATION_PROMPT" = "我很喜欢咖啡！:)";
+"MSG_ENABLED_" = "启用";
+"MSG_DISABLED_" = "禁用";
+"MSG_PANELS" = "面板";
