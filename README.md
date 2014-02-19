@@ -1,5 +1,6 @@
 # CCTogglesLocales
 
 
-CCToggles locales
+CCToggles Locales
+
 CCToggles 语言环境
