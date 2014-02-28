@@ -1,7 +1,9 @@
 "HomeButton" = "HomeButton";
-"Double Tap Behavior" = "더블 탭";
+"Single Tap Behavior" = "한 번 탭";
+"Double Tap Behavior" = "두 번 탭";
 "LongPress Behavior" = "오래누르기";
 "None" = "아무것도 하지 않음";
+"Default HomeButton" = "기본 홈버튼";
 "Show AppSlider" = "앱 슬라이더 보이기";
 "Siri" = "Siri";
 "Sleep Device" = "잠자기";

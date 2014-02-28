@@ -1,7 +1,9 @@
 "HomeButton" = "HomeButton";
+"Single Tap Behavior" = "Single Tap Behavior";
 "Double Tap Behavior" = "Double Tap Behavior";
 "LongPress Behavior" = "LongPress Behavior";
 "None" = "None";
+"Default HomeButton" = "Default HomeButton";
 "Show AppSlider" = "Show AppSlider";
 "Siri" = "Siri";
 "Sleep Device" = "Sleep Device";
