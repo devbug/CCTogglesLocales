@@ -37,3 +37,6 @@
 "MSG_ENABLED_" = "Enabled";
 "MSG_DISABLED_" = "Disabled";
 "MSG_PANELS" = "Panels";
+"MSG_LONGPRESS" = "LongPress";
+"MSG_URLSCHEME" = "URLScheme";
+"MSG_LAUNCH_BYPASS_PASSCODE" = "Launch bypass passcode";
