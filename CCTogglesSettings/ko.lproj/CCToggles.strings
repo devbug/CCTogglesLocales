@@ -41,3 +41,4 @@
 "MSG_URLSCHEME" = "URLScheme";
 "MSG_LAUNCH_BYPASS_PASSCODE" = "암호잠금 우회해 앱 실행";
 "MSG_PAGING" = "페이지 기능";
+"MSG_SELECT_ACTIVATOR_ACTION" = "액션 선택";
